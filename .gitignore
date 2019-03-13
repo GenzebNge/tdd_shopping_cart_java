@@ -1,10 +1,5 @@
-# IntelliJ
-*.ipr
-*.iws
-*.iml
-.idea/
-
-# gradle
+# Ignore Gradle project-specific cache directory
 .gradle
-build/
-out/
+
+# Ignore Gradle build output directory
+build
