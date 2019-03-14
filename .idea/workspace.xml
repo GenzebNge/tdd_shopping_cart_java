@@ -2,7 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5402138b-bf59-45ae-8194-678e8e00f8ec" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/alisnobba/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/alisnobba/Cart.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/alisnobba/Cart.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/alisnobba/Item.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/alisnobba/Item.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/com/alisnobba/AppTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/com/alisnobba/CartTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/com/alisnobba/CartTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/alisnobba/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/alisnobba/Cart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/alisnobba/Cart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/alisnobba/Item.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/alisnobba/Item.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/alisnobba/AppTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/alisnobba/CartTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/alisnobba/CartTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/build/" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -13,12 +23,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/tdd_shopping_cart_java$CartTest.ic" NAME="CartTest Coverage Results" MODIFIED="1552488721276" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+    <SUITE FILE_PATH="coverage/tdd_shopping_cart_java$CartTest.ic" NAME="CartTest Coverage Results" MODIFIED="1552585615257" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>com.alisnobba.*</FILTER>
     </SUITE>
   </component>
   <component name="CoverageViewManager">
-    <option name="myElementSize" value="196" />
+    <option name="myElementSize" value="193" />
   </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
@@ -26,35 +36,12 @@
     </projectState>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/alisnobba/App.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/alisnobba/Item.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="103">
-              <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
-              <folding>
-                <element signature="e#327#328#0" expanded="true" />
-                <element signature="e#354#355#0" expanded="true" />
-                <element signature="e#394#395#0" expanded="true" />
-                <element signature="e#426#427#0" expanded="true" />
-                <element signature="e#458#459#0" expanded="true" />
-                <element signature="e#486#487#0" expanded="true" />
-                <element signature="e#528#529#0" expanded="true" />
-                <element signature="e#562#563#0" expanded="true" />
-                <element signature="e#595#596#0" expanded="true" />
-                <element signature="e#624#625#0" expanded="true" />
-                <element signature="e#669#670#0" expanded="true" />
-                <element signature="e#705#706#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="105">
+              <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="11" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -62,11 +49,10 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/alisnobba/Cart.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="118">
-              <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+            <state relative-caret-position="203">
+              <caret line="35" column="39" selection-start-line="35" selection-start-column="39" selection-end-line="35" selection-end-column="39" />
               <folding>
-                <element signature="e#208#209#0" expanded="true" />
-                <element signature="e#250#251#0" expanded="true" />
+                <element signature="e#442#443#0" expanded="true" />
                 <element signature="e#488#489#0" expanded="true" />
               </folding>
             </state>
@@ -76,8 +62,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/alisnobba/CartTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+            <state relative-caret-position="600">
+              <caret line="40" column="33" selection-start-line="40" selection-start-column="23" selection-end-line="40" selection-end-column="33" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -101,8 +87,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/alisnobba/Item.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/alisnobba/CartTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/alisnobba/Item.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/alisnobba/Cart.java" />
       </list>
     </option>
@@ -119,7 +105,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -178,10 +163,11 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552511682113" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552585614218" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
@@ -238,9 +224,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="CartTest.testOnSaleItems" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tdd_shopping_cart_java.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.alisnobba.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.alisnobba" />
+      <option name="MAIN_CLASS_NAME" value="com.alisnobba.CartTest" />
+      <option name="METHOD_NAME" value="testOnSaleItems" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.CartTest" />
+        <item itemvalue="JUnit.CartTest.testOnSaleItems" />
         <item itemvalue="JUnit.CartTest.testItemizedList" />
       </list>
     </recent_temporary>
@@ -259,34 +262,34 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="CartTest_testItemizedList - 2019.03.13 at 15h 31m 48s.xml">
-      <configuration name="CartTest.testItemizedList" configurationId="JUnit" />
+    <history-entry file="CartTest_testOnSaleItems - 2019.03.14 at 09h 56m 43s.xml">
+      <configuration name="CartTest.testOnSaleItems" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CartTest_testItemizedList - 2019.03.13 at 15h 32m 26s.xml">
-      <configuration name="CartTest.testItemizedList" configurationId="JUnit" />
+    <history-entry file="CartTest_testOnSaleItems - 2019.03.14 at 09h 59m 45s.xml">
+      <configuration name="CartTest.testOnSaleItems" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CartTest_testItemizedList - 2019.03.13 at 17h 00m 20s.xml">
-      <configuration name="CartTest.testItemizedList" configurationId="JUnit" />
+    <history-entry file="CartTest_testOnSaleItems - 2019.03.14 at 10h 00m 34s.xml">
+      <configuration name="CartTest.testOnSaleItems" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CartTest_testItemizedList - 2019.03.13 at 17h 04m 52s.xml">
-      <configuration name="CartTest.testItemizedList" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CartTest_testItemizedList - 2019.03.13 at 17h 06m 22s.xml">
-      <configuration name="CartTest.testItemizedList" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CartTest_testItemizedList - 2019.03.13 at 17h 06m 34s.xml">
-      <configuration name="CartTest.testItemizedList" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CartTest_testItemizedList - 2019.03.13 at 17h 07m 07s.xml">
-      <configuration name="CartTest.testItemizedList" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CartTest_testItemizedList - 2019.03.13 at 17h 08m 59s.xml">
-      <configuration name="CartTest.testItemizedList" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CartTest - 2019.03.13 at 17h 09m 20s.xml">
+    <history-entry file="CartTest - 2019.03.14 at 10h 02m 54s.xml">
       <configuration name="CartTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CartTest - 2019.03.13 at 17h 10m 07s.xml">
+    <history-entry file="CartTest - 2019.03.14 at 10h 03m 42s.xml">
+      <configuration name="CartTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CartTest - 2019.03.14 at 10h 03m 49s.xml">
+      <configuration name="CartTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CartTest - 2019.03.14 at 10h 37m 01s.xml">
+      <configuration name="CartTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CartTest - 2019.03.14 at 10h 45m 08s.xml">
+      <configuration name="CartTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CartTest - 2019.03.14 at 10h 45m 16s.xml">
+      <configuration name="CartTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CartTest - 2019.03.14 at 13h 38m 59s.xml">
       <configuration name="CartTest" configurationId="JUnit" />
     </history-entry>
   </component>
@@ -294,67 +297,39 @@
     <frame x="133" y="60" width="1400" height="940" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Designer" />
-      <window_info id="Image Layers" />
-      <window_info id="UI Designer" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info id="Capture Tool" />
-      <window_info id="Learn" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2496318" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Build" weight="0.32900944" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Messages" weight="0.32900944" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32900944" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39976415" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Gradle" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Coverage" side_tool="true" weight="0.3298969" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info id="Image Layers" order="0" />
+      <window_info id="UI Designer" order="1" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Learn" order="4" />
+      <window_info id="Designer" order="5" />
+      <window_info content_ui="combo" id="Project" order="6" visible="true" weight="0.2533137" />
+      <window_info id="Structure" order="7" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="2" />
+      <window_info anchor="bottom" id="Messages" order="3" weight="0.32900944" />
+      <window_info anchor="bottom" id="Build" order="4" weight="0.32900944" />
+      <window_info anchor="bottom" id="Message" order="5" />
+      <window_info anchor="bottom" id="Find" order="6" />
+      <window_info anchor="bottom" id="Run" order="7" visible="true" weight="0.32900944" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.39976415" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="11" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Gradle" order="2" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Coverage" order="5" side_tool="true" weight="0.3298969" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="7" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="8" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="9" weight="0.25" />
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/alisnobba/App.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/alisnobba/Item.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="103">
-          <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
-          <folding>
-            <element signature="e#327#328#0" expanded="true" />
-            <element signature="e#354#355#0" expanded="true" />
-            <element signature="e#394#395#0" expanded="true" />
-            <element signature="e#426#427#0" expanded="true" />
-            <element signature="e#458#459#0" expanded="true" />
-            <element signature="e#486#487#0" expanded="true" />
-            <element signature="e#528#529#0" expanded="true" />
-            <element signature="e#562#563#0" expanded="true" />
-            <element signature="e#595#596#0" expanded="true" />
-            <element signature="e#624#625#0" expanded="true" />
-            <element signature="e#669#670#0" expanded="true" />
-            <element signature="e#705#706#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/util/Iterator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="181">
@@ -362,10 +337,19 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/alisnobba/App.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/alisnobba/AppTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/alisnobba/Item.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="11" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/alisnobba/CartTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        <state relative-caret-position="600">
+          <caret line="40" column="33" selection-start-line="40" selection-start-column="23" selection-end-line="40" selection-end-column="33" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -374,11 +358,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/alisnobba/Cart.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="118">
-          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+        <state relative-caret-position="203">
+          <caret line="35" column="39" selection-start-line="35" selection-start-column="39" selection-end-line="35" selection-end-column="39" />
           <folding>
-            <element signature="e#208#209#0" expanded="true" />
-            <element signature="e#250#251#0" expanded="true" />
+            <element signature="e#442#443#0" expanded="true" />
             <element signature="e#488#489#0" expanded="true" />
           </folding>
         </state>
