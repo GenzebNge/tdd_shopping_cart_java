@@ -4,6 +4,8 @@ import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
 
+import java.util.List;
+
 import static org.junit.Assert.*;
 
 public class CartTest {
@@ -57,22 +59,21 @@ public class CartTest {
         assertEquals ("Should return a total price of 4000.0 (as double type).", expectedTotalPrice , actualTotalPrice, DELTA);
     }
 
-    @Test
+   @Test
     public void testItemQuantities () {
         Item item = new Item ("Handbag", 100.00D, true);
         Item item2 = new Item ("Watch", 1000.00D, true);
-        Cart cart = new Cart ();
         cart.addItem (item, 2);
         cart.addItem (item2, 4);
         assertNotNull (cart.itemQuantities ());
-        assertEquals(2, cart.itemQuantities ().size());
+        assertTrue(cart.itemQuantities ().contains("Handbag - x2"));
+       assertTrue(cart.itemQuantities ().contains("Watch - x4"));
     }
 
     @Test
     public void testItemizedList (){
         Item item = new Item ("Handbag", 500D, true);
         Item item2 = new Item ("Watch", 40000D, true);
-        Cart cart = new Cart ();
         cart.addItem (item, 1);
         cart.addItem (item2, 2);
         assertNotNull (cart.itemizedList());
